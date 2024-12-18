@@ -22,7 +22,7 @@ gem "jbuilder"
 gem 'rack-cors'
 
 # gem irb now depends on psych, but version 5 will not bundle currently  
-gem("psych", "~> 4")  
+gem("psych", "~> 5")  
 
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
